@@ -1,3 +1,1 @@
-# Mark02
-
-Base de proyecto
+# Proyecto de ejemplo para acceder a BBDD con Hibernate
